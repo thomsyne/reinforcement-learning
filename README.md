@@ -1,2 +1,2 @@
-# reinforcement-learning
+# Reinforcement-learning
 Writing codes for RL
